@@ -22,3 +22,7 @@ MessageBus.subscribe("/post", function(data){
   $('#refresh').text('Updated at ' + new Date().toLocaleString());
 });
 ```
+
+## Demonstration
+[![MessageBus - Action Cable without WebSockets](http://img.youtube.com/vi/jtjVSSoHWI8/0.jpg)](http://www.youtube.com/watch?v=jtjVSSoHWI8)
+
